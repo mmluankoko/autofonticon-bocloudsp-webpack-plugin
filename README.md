@@ -20,7 +20,7 @@ const AutofonticonWebpackPlugin = require('autofonticon-bocloudsp-webpack-plugin
 // ...
 
 plugins: [
-    new MyPlugin({onlineUrl: 'http://at.alicdn.com/t/something.css'}),
+    new AutofonticonWebpackPlugin({onlineUrl: 'http://at.alicdn.com/t/something.css'}),
   ]
 ```
 
