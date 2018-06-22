@@ -1,0 +1,22 @@
+{
+  "name": "autofonticon-bocloudsp-webpack-plugin",
+  "version": "0.0.2",
+  "description": "Webpack plugin that switches fonticon source automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmluankoko/autofonticon-bocloudsp-webpack-plugin.git"
+  },
+  "author": "Edison Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmluankoko/autofonticon-bocloudsp-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/mmluankoko/autofonticon-bocloudsp-webpack-plugin#readme",
+  "dependencies": {
+    "download": "^7.0.0"
+  }
+}
