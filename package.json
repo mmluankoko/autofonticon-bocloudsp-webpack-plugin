@@ -1,6 +1,6 @@
 {
   "name": "autofonticon-bocloudsp-webpack-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Webpack plugin that switches fonticon source automatically",
   "main": "index.js",
   "scripts": {
